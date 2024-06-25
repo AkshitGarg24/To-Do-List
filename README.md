@@ -2,7 +2,7 @@
 
 ## Summary
 
-The To-Do List Project is a user-friendly application designed to help you manage your tasks efficiently. Key features include:
+The To-Do List Project is a user-friendly website designed to help you manage your tasks efficiently. Key features include:
 
 - **Add Tasks**: Create new tasks effortlessly.
 - **Edit Tasks**: Update task details as needed.
